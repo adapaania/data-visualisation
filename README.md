@@ -6,7 +6,7 @@ Right now, the Python track is complete; other tools will be added next.
 ## ✅ Current
 ### Python
 - **Customer Churn — Behavioral Visualizations**
-  - Folder: `python/01-customer-churn-visuals/`
+  - Folder: `01_Churn_Analysis`
 
 ## 🚧 Coming Soon
 - R (ggplot2 versions of the same projects)
