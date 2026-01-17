@@ -9,8 +9,7 @@ Explore churn behavior and identify patterns across:
 pandas • matplotlib • seaborn
 
 ## Visuals
-Add screenshots into `outputs/` and link them here:
-- Churn by Contract: `outputs/churn_by_contract.png`
+- Churn by Contract: `[outputs/churn_by_contract.png](https://github.com/adapaania/data-visualisation/blob/main/01_Churn_Analysis/Outputs/churn_by_contract.png)`
 - Tenure distribution by Churn: `outputs/tenure_by_churn.png`
 - Monthly Charges vs Churn: `outputs/charges_vs_churn.png`
 
